@@ -1,0 +1,10 @@
+section {
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    width: 30%;
+}
+
+header {
+    border-bottom: 1px solid #ccc;
+    height: 45px;
+}

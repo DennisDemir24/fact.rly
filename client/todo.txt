@@ -1,0 +1,9 @@
+#Datastory component
+TODO
+* Add input / text field to write snippets
+* Make window collapseable
+
+
+#Data source Component
+TODO
+* Setup API requests to get data from backend (Need to wait for backend to be ready)
